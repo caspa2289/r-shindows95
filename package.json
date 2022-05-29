@@ -1,5 +1,8 @@
 {
-  "name": "r-shindows95",
+  "name": "@caspa2289/r-shindows95",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/caspa2289"
+  },
   "version": "1.0.0",
   "description": "test library with little to no practical use",
   "scripts": {
